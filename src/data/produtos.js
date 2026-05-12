@@ -1,7 +1,7 @@
   const produtos = [
-  { id: 1, nome: 'Ração Premium Cães', preco: 120, categoria: 'Alimentos' },
-  { id: 2, nome: 'Ração Gatos Castrados', preco: 95, categoria: 'Alimentos' },
-  { id: 3, nome: 'Petisco Natural', preco: 18, categoria: 'Alimentos' },
+  { id: 1, nome: 'Ração Premium Cães', preco: 120, categoria: 'Alimentos', imagem: '/images/racaoPremiumCaes.png' },
+  { id: 2, nome: 'Ração Gatos Castrados', preco: 95, categoria: 'Alimentos', imagem: '/images/racaoGatosCastrados.png' },
+  { id: 3, nome: 'Petisco Natural', preco: 18, categoria: 'Alimentos', imagem: '/images/petiscoNatural.png'},
   { id: 4, nome: 'Brinquedo Bola', preco: 22, categoria: 'Brinquedos' },
   { id: 5, nome: 'Mordedor de Corda', preco: 30, categoria: 'Brinquedos' },
   { id: 6, nome: 'Shampoo Pet', preco: 35, categoria: 'Higiene' },
