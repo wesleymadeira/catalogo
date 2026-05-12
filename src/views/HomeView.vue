@@ -1,11 +1,10 @@
-<script>
+<script setup>
+
 </script>
 
 <template>
-    <header>
         <h1>Olá</h1>
-    </header>
 </template>
 
-<style>
+<style scoped>
 </style>
