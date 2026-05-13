@@ -6,9 +6,10 @@
   { id: 5, nome: 'Mordedor de Corda', preco: 30, categoria: 'Brinquedos' },
   { id: 6, nome: 'Shampoo Pet', preco: 35, categoria: 'Higiene' },
   { id: 7, nome: 'Tapete Higiênico', preco: 42, categoria: 'Higiene' },
-  { id: 8, nome: 'Coleira Azul', preco: 28, categoria: 'Acessórios' },
-  { id: 9, nome: 'Guia de Passeio', preco: 40, categoria: 'Acessórios' }
+  { id: 8, nome: 'Coleira Azul', preco: 28, categoria: 'Acessorios' },
+  { id: 9, nome: 'Guia de Passeio', preco: 40, categoria: 'Acessorios' }
   ];
 
   export { produtos as listaProdutos }
+  
   

@@ -6,10 +6,10 @@
     <header>
         <nav>
             <RouterLink to="/">Home</RouterLink>
-            <RouterLink to="/alimentos">alimentos</RouterLink>
-            <!-- <RouterLink to="/">acessorios</RouterLink> -->
-            <RouterLink to="/brinquedos">brinquedos</RouterLink>
-            <!-- <RouterLink to="/">higiene</RouterLink> -->
+            <RouterLink to="/alimentos">Alimentos</RouterLink>
+            <RouterLink to="/acessorios">acessorios</RouterLink>
+            <RouterLink to="/brinquedos">Brinquedos</RouterLink>
+            <RouterLink to="/higiene">Higiene</RouterLink>
         </nav>
     </header>
 </template>

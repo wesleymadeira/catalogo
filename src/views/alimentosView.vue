@@ -16,12 +16,19 @@
 </template>
 
 <style scoped>
+    div{
+        margin: 0 0vw 0 0vw;
+        padding: 0vw 1vw 0vw 1vw;        
+    }
+    h1{
+        text-align: center;
+    }
     .produto-card{
         display: flex;
         align-items: center;
         justify-content: space-between;
         border: 1px solid #ccc;
-        padding: 16px;
-        margin-bottom: 16px;
+        border-radius: 2vw;
     }
+    
 </style>

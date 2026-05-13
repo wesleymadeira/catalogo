@@ -6,9 +6,6 @@
     const novoPreco = ref(0);
     novoPreco.value = props.preco
     defineEmits(['fechar']);
-    function corrigirPreco() {
-        
-    }
 </script>
 
 <template>
