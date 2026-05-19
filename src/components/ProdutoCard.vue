@@ -27,13 +27,14 @@
     align-items: center;
     justify-content: space-between;
     border: 1px solid #ccc;
-    padding: 16px;
+    padding: 10px;
     margin-bottom: 16px;
 }
 
-.produto-imagem{
-    width: 50px;
-    height: 50px;
+img {
+    width: 100px;
+    height: 100px;
     object-fit: cover;
 }
+
 </style>
